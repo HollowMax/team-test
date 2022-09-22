@@ -1,1 +1,12 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+
+.wrap{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main{
+    flex: 1 0 auto;
+}
+
